@@ -18,3 +18,5 @@ Tutorial git
 - tạo 1 nhánh mới: git checkout -b <tên nhánh>
 - git conflict : 
 - chuyen sang branch / commit khac: git checkout <name branch/commit>
+
+- Lấy tên của commit gần nhất: git log -1
