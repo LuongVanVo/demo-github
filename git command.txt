@@ -13,3 +13,8 @@ Tutorial git
 
 * LÀM VIỆC NHÓM
 - git pull: Kéo mã nguồn mới nhất từ github về máy local và hợp nhất vào nhánh hiện tại.
+=> bản chất của git pull = git fetch + git merge (lấy các sự thay đổi và merge vào)
+- git merge: gộp code từ nhánh này vào nhánh khác
+- tạo 1 nhánh mới: git checkout -b <tên nhánh>
+- git conflict : 
+- chuyen sang branch / commit khac: git checkout <name branch/commit>
