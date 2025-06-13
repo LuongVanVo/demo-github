@@ -1,1 +1,1 @@
-# github tutorial teamwork by GITHUB
+# github tutorial teamwork on github
