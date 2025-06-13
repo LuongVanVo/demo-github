@@ -1,0 +1,15 @@
+Tutorial git 
+
+- git config
+- git init : tạo thư mục trống .git, để có thể kiểm soát mã nguồn tại máy local
+- git clone: kéo thư mục từ github về 
+- git status: kiểm tra trạng thái các file trên máy tính
+- git add: để lưu lại lịch sử của các file 
+- git commit: lưu lại các thay đổi đã được đưa vào khu vực staging (chờ commit) vào lịch sử của kho lưu trữ.
+	+ Ghi lại snapshot của code tại 1 thời điểm nhất định
+	+ Tạo một mốc lịch sử để có thể quay lại, so sánh, hoặc phục hồi sau này.
+	+ ghi chú lại nội dung thay đổi bằng các thêm message (-m)
+- git push: Đẩy các commit từ local lên kho lưu trữ (github)
+
+* LÀM VIỆC NHÓM
+- git pull: Kéo mã nguồn mới nhất từ github về máy local và hợp nhất vào nhánh hiện tại.
